@@ -37,10 +37,15 @@ Using Sublime Text I open the incident file where I can expand the file and use 
  In the photo below we see different identifying characteristics. Where we are able to answer our employers questions and complete the tasks at hand. 
  
  # Attackers Identifying Features (Answers) 
- 1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address 
+ 1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address, letting us know that it is possibly malicious insider, or a compromised internal machine. 
+
  2. Here we see the time stamps which show identifying characteristics of an automated polling pattern.
+ 
  3. I can also from the same data set see the UserID which is, "mdB7yD2dp1BFZPontHBQ1Z"
- 4. Here we can easily see consecutive requests, which showws automated and scripted charcterisitcs. 
+ 
+ 4. Here we can easily see consecutive requests, which showws automated and scripted charcterisitcs.
+
+ 5. Another identifying characterisitcs that shows the common requests made by these automated or scripted attacks possibly a botnet.  
 
 
 <img width="1865" height="470" alt="Screenshot 2025-08-30 150414" src="https://github.com/user-attachments/assets/a00d1c38-6cef-4a9d-a51d-851cf7cc3513" />
