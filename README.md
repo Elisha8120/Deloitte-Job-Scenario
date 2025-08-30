@@ -2,7 +2,7 @@
 
 
 
-# Responding to an Alleged Breach as a Cybersecurity Specialist. 
+# Responding to a Breach as a Cybersecurity Specialist. 
 
 <img width="440" height="327" alt="image" src="https://github.com/user-attachments/assets/de710e33-a3be-404b-8199-314bdd85d531" />
 
