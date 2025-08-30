@@ -60,10 +60,10 @@ In this project I will be working on a real on the job scenario that Deloitte ha
 
 
 
-# Documentation
+# Incident report, and guidline
 https://cdn.theforage.com/vinternships/companyassets/9PBTqmSxAf6zZTseP/how-to-read-the-logs.pdf
 
-
+https://github.com/Elisha8120/Deloitte-Job-Scenario/blob/main/web_activity.log
 
 
 # Source: 
