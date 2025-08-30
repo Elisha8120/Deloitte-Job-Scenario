@@ -20,16 +20,16 @@ In this project I will be working on a real on the job scenario that Deloitte ha
 
 
 # Todays Task  
+<img width="907" height="164" alt="image" src="https://github.com/user-attachments/assets/86e9dd69-0743-4de0-965a-3544ee682fed" />
 
-
-<img width="807" height="890" alt="image" src="https://github.com/user-attachments/assets/a1a772c1-4b8b-492c-b1fc-5f65c9399de9" />
-<img width="773" height="104" alt="image" src="https://github.com/user-attachments/assets/d9dd0d2e-ae2a-4ee7-b498-f7874ea40d23" />
 
 
 # My Task Steps
 
 
-Using 
+Using Sublime Text I open the incident file where I can expand the file and use keywords to narrow down my search. In this case I used the search feature in Sublime text to look for key words like machine=*.  Also looking for stuff like "api/factory/machine/status" where there are repeated requests to the systems. Still using Sublime I was able to look at the timstamps more closely and look for automated patterns that show abnormality. 
+
+In this case we 
 
 
 
@@ -107,7 +107,6 @@ https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australi
 <img width="894" height="227" alt="image" src="https://github.com/user-attachments/assets/0ccf94ae-76e9-4cb4-976b-de1f30cdcb8e" />
 
 
-# Certifications
 
 
 
