@@ -39,13 +39,13 @@ Using Sublime Text I open the incident file where I can expand the file and use 
  # Attackers Identifying Features (Answers) 
  1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address, letting us know that it is possibly malicious insider, or a compromised internal machine. 
 
- 2. Here we see the time stamps which show identifying characteristics of an automated polling pattern.
+ 2. Here we see the time stamps which show identifying characteristics of an automated polling pattern. Time Stamp: (2021-06-25T16:14:00.000Z)
  
  3. I can also from the same data set see the UserID which is, "mdB7yD2dp1BFZPontHBQ1Z"
  
- 4. Here we can easily see consecutive requests, which showws automated and scripted charcterisitcs.
+ 4. Here we can easily see a pattern of consecutive requests, which showws automated and scripted charcterisitcs.
 
- 5. Another identifying characterisitcs that shows the common requests made by these automated or scripted attacks possibly a botnet.  
+ 5. Another identifying characterisitc that shows the common requests made by these automated or scripted attacks indicating a possible botnet based attack.  
 
 
 <img width="1865" height="470" alt="Screenshot 2025-08-30 150414" src="https://github.com/user-attachments/assets/a00d1c38-6cef-4a9d-a51d-851cf7cc3513" />
@@ -66,10 +66,12 @@ Using Sublime Text I open the incident file where I can expand the file and use 
 
 
 
+# Conclusion 
 
 
+This investigation into the alleged system breach provided a hands-on simulation of a critical cybersecurity incident response scenario. By systematically analyzing the "web_activity.log file", I was able to transition from a broad alert to a precise understanding of the attack's origin, method, and scope.
 
-
+My analysis conclusively determined that the suspicious activity was not an external attack but an internal security incident. The attack originated from the private IP address "192.168.0.101", leveraging the compromised credentials of user "mdB7yD2dp1BFZPontHBQ1Z" to execute an automated, scripted data exfiltration attack. The script methodically polled the "/api/factory/machine/status" API endpoint for all factories and machines, a clear signature of malicious intent rather than legitimate user activity.
 
 
 
