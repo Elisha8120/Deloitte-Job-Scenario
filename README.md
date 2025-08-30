@@ -24,16 +24,26 @@ In this project I will be working on a real on the job scenario that Deloitte ha
 
 
 
-# My Task Steps
+# Job Completion Steps 
 
 
-Using Sublime Text I open the incident file where I can expand the file and use keywords to narrow down my search. In this case I used the search feature in Sublime text to look for key words like machine=*.  Also looking for stuff like "api/factory/machine/status" where there are repeated requests to the systems. Still using Sublime I was able to look at the timstamps more closely and look for automated patterns that show abnormality. 
-
-In this case we 
-
+Using Sublime Text I open the incident file where I can expand the file and use keywords to narrow down my search. In this case I used the search feature in Sublime text to look for key words like machine=*.  Also looking for stuff like "api/factory/machine/status" where there are repeated requests to the systems. Still using Sublime I was able to look at the timstamps more closely and look for automated patterns that show any abnormalities. 
 
 
 <img width="1901" height="1048" alt="image" src="https://github.com/user-attachments/assets/c1e97373-4a0e-47b1-a261-1a90780daff8" />
+
+
+ 
+ In the photo below we see different identifying characteristics. Where we are able to answer our employers questions and complete the tasks at hand. 
+ 
+ # Attackers Identifying Features (Answers) 
+ 1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address 
+ 2. Here we see the time stamps which show identifying characteristics of an automated polling pattern.
+ 3. I can also from the same data set see the UserID which is, "mdB7yD2dp1BFZPontHBQ1Z"
+ 4. Here we can easily see consecutive requests, which showws automated and scripted charcterisitcs. 
+
+
+<img width="1865" height="470" alt="Screenshot 2025-08-30 150414" src="https://github.com/user-attachments/assets/a00d1c38-6cef-4a9d-a51d-851cf7cc3513" />
 
 
 
