@@ -19,7 +19,7 @@
 In this project I will be working on a real on the job scenario that Deloitte has provided to simulate being apart of their Cyber Security Team. While gaining real life experience we will putting our cyber security expertise to the test and applying what we've learned to real life scenarios. The tools I will be using to complete this job assignment will be Sublime Text, and Ubuntu Linux which I more familiar with. 
 
 
-# Todays Task  
+# Task from my Employers  
 <img width="907" height="164" alt="image" src="https://github.com/user-attachments/assets/86e9dd69-0743-4de0-965a-3544ee682fed" />
 
 
@@ -34,9 +34,17 @@ Using Sublime Text I open the incident file where I can expand the file and use 
 
 
  
- In the photo below we see different identifying characteristics. Where we are able to answer our employers questions and complete the tasks at hand. 
+ 
  
  # Attackers Identifying Features (Answers) 
+
+ In the photo below we see different identifying characteristics. Where we are able to answer our employers questions and complete the tasks at hand. 
+ 
+ (Numbers are in reference to the numbers and arrows in the screenshot) 
+
+ 
+
+ 
  1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address, letting us know that it is possibly malicious insider, or a compromised internal machine. 
 
  2. Here we see the time stamps which show identifying characteristics of an automated polling pattern. Time Stamp: (2021-06-25T16:14:00.000Z)
