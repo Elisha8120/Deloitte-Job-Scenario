@@ -98,3 +98,13 @@ https://ubuntu.com/
 
 # Source: 
 https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australia/cyber-c1e3/cyber-security
+
+
+
+
+
+
+<img width="894" height="227" alt="image" src="https://github.com/user-attachments/assets/0ccf94ae-76e9-4cb4-976b-de1f30cdcb8e" />
+
+
+
