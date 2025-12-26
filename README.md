@@ -45,7 +45,7 @@ Using Sublime Text I open the incident file where I can expand the file and use 
  
 
  
- 1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is froma private network.) So turns out is an internal private network IP address, letting us know that it is possibly malicious insider, or a compromised internal machine. 
+ 1. We are able to see the suspicious activites source IP address. (We are able to notice that the IP Address is a private network IP that shows that it is from a private network.) So turns out is an internal private network IP address, letting us know that it is possibly malicious insider, or a compromised internal machine. 
 
  2. Here we see the time stamps which show identifying characteristics of an automated polling pattern. Time Stamp: (2021-06-25T16:14:00.000Z)
  
